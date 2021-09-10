@@ -1,7 +1,6 @@
 package com.edilov.springMVC.dao;
 
 import com.edilov.springMVC.models.User;
-
 import java.util.List;
 
 public interface UserDao {

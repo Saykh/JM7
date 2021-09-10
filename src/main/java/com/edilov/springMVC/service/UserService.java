@@ -1,7 +1,6 @@
 package com.edilov.springMVC.service;
 
 import com.edilov.springMVC.models.User;
-
 import java.util.List;
 
 public interface UserService {
